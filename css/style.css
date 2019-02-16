@@ -1,0 +1,256 @@
+@media (max-width:768px) {
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6twa7x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 124px;
+    margin-top: 78px;
+    width: 125px;
+    height: 49px
+  }
+  .style3 {
+    color: #000;
+    font-family: futura,serif;
+    font-size: .4375em;
+    font-weight: 500;
+    margin-left: 44px;
+    margin-top: 115px;
+    height: 9px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6tw9rk.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 13px;
+    margin-top: 182px;
+    width: 371px;
+    height: 26px
+  }
+  .style4 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 116px 30px;
+    border-top-right-radius: 116px 30px;
+    border-bottom-left-radius: 116px 30px;
+    border-bottom-right-radius: 116px 30px;
+    margin-left: 73px;
+    margin-top: 231px;
+    width: 229px;
+    height: 58px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style5 {
+    background-color: #811616;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 90px;
+    margin-top: 138px;
+    width: 215px;
+    height: 228px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6twa7x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 254px;
+    margin-top: 160px;
+    width: 256px;
+    height: 100px
+  }
+  .style3 {
+    color: #000;
+    font-family: futura,serif;
+    font-size: .896em;
+    font-weight: 500;
+    margin-left: 90px;
+    margin-top: 236px;
+    height: 18px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6tw9rk.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 27px;
+    margin-top: 373px;
+    width: 760px;
+    height: 53px
+  }
+  .style4 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 116px 30px;
+    border-top-right-radius: 116px 30px;
+    border-bottom-left-radius: 116px 30px;
+    border-bottom-right-radius: 116px 30px;
+    margin-left: 150px;
+    margin-top: 473px;
+    width: 469px;
+    height: 119px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style5 {
+    background-color: #811616;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 184px;
+    margin-top: 283px;
+    width: 440px;
+    height: 467px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6twa7x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 304px;
+    margin-top: 191px;
+    width: 307px;
+    height: 120px
+  }
+  .style3 {
+    color: #000;
+    font-family: futura,serif;
+    font-size: 1.0733333333333333em;
+    font-weight: 500;
+    margin-left: 108px;
+    margin-top: 282px;
+    height: 22px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6tw9rk.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 32px;
+    margin-top: 447px;
+    width: 910px;
+    height: 64px
+  }
+  .style4 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 116px 30px;
+    border-top-right-radius: 116px 30px;
+    border-bottom-left-radius: 116px 30px;
+    border-bottom-right-radius: 116px 30px;
+    margin-left: 179px;
+    margin-top: 567px;
+    width: 562px;
+    height: 142px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style5 {
+    background-color: #811616;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 221px;
+    margin-top: 339px;
+    width: 527px;
+    height: 559px
+  }
+}
+@media (min-width:1200px) {
+  .style2 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6twa7x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 397px;
+    margin-top: 250px;
+    width: 400px;
+    height: 157px
+  }
+  .style3 {
+    color: #000;
+    font-family: futura,serif;
+    font-size: 1.4000000000000001em;
+    font-weight: 500;
+    margin-left: 141px;
+    margin-top: 368px;
+    height: 29px
+  }
+  .style1 {
+    background-image: url(https://designresources.assets.yotako.io/yjqrw5gjs6tw9rk.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 42px;
+    margin-top: 582px;
+    width: 1187px;
+    height: 83px
+  }
+  .style4 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    border-top-left-radius: 116px 30px;
+    border-top-right-radius: 116px 30px;
+    border-bottom-left-radius: 116px 30px;
+    border-bottom-right-radius: 116px 30px;
+    margin-left: 234px;
+    margin-top: 739px;
+    width: 733px;
+    height: 186px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style5 {
+    background-color: #811616;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 288px;
+    margin-top: 442px;
+    width: 688px;
+    height: 730px
+  }
+}
